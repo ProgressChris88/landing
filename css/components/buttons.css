@@ -1,0 +1,10 @@
+.btn-primary {
+  border: 2px solid #999999;
+  padding: 5px 15px;
+  border-radius: 50px;
+  font-weight: bold;
+  opacity: 0.8;
+  color: white;
+  background: #173e35;
+  transition: background 0.3s ease;
+}
